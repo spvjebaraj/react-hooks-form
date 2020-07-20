@@ -1,0 +1,10 @@
+body {
+  font-size: 12px;
+  padding-top: 20px;
+}
+.form-control {
+  font-size: 14px;
+}
+.invalid-feedback {
+  display: block !important;
+}
